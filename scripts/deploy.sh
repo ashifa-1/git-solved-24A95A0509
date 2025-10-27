@@ -31,4 +31,3 @@ else
 fi
 
 echo "Deployment completed successfully!"
-"BUG" 
