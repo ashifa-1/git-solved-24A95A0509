@@ -5,8 +5,8 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 ## Project Status
 - **Version**: 1.0.0 (Production), 2.0.0-beta (Development)
 - **Environments**: Production & Development
-- **Student**: [YOUR NAME]
-- **Student ID**: [YOUR ID]
+- **Student**: Mohammed Ahmad Ashifa
+- **Student ID**: 24A95A0509
 
 ## Features
 
@@ -23,11 +23,11 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 - Scheduled backups
 
 ### Development Features (Beta)
--  Docker Compose integration
--  Hot reload enabled
--  Debug mode active
--  Enhanced logging
--  Mock external APIs
+- Docker Compose integration
+- Hot reload enabled
+- Debug mode active
+- Enhanced logging
+- Mock external APIs
 
 ## Quick Start
 
