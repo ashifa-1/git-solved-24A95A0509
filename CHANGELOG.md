@@ -1,13 +1,18 @@
-- **Fetch:** Used **1 time**
-- **Pull:** Used **1 time**
-- **Stash:** Used **1 time**
-- **Cherry-pick:** Used **1 time**
-- **Rebase:** Used **1 time**
-- **Reset:** Used **3 times**
-- **Revert:** Used **1 time**
-- **Tags Created:** **2+ tags**
-
-###  Notes
-- Demonstrated a wide range of Git operations including history manipulation and tag management.  
-- Successfully handled conflicts during rebase and resolved them manually.  
-- Maintained a clean and organized commit history throughout the project.
+- 3d34ebe CHANGELOG.md formatted (Ashifa,2 minutes ago)
+- 26a1c1a Added the Documentation GIT_JOURNEY.md (Ashifa,4 minutes ago)
+- c662527 added CHANGELOG.md (Ashifa,55 minutes ago)
+- 5e0d5de solved conflict errors in changelog.md (Ashifa,39 minutes ago)
+- 8d8a95c Merge pull request #1 from ashifa-1/feature/another-feature (Ashifaaa,51 minutes ago)
+- c6d051b Added change to scripts/deploy.sh (Ashifa,83 minutes ago)
+- 2629ec3 Bad commit (Ashifa,2 hours ago)
+- 45342e9 used rebase 1 time (Ashifa,2 hours ago)
+- d54509f feature: Add test feature (Ashifa,2 hours ago)
+- fef73eb docs: update README (Ashifa,2 hours ago)
+- 61ee26d feat: Add new feature (Ashifa,2 hours ago)
+- 5b21d4e checkpoint 3 added (Ashifa,2 hours ago)
+- f6371da Phase 3 completed (Ashifa,8 hours ago)
+- 045c357 Completed phase 2 (Ashifa,9 hours ago)
+- d3dd9b2 updating conflict-simulator (Hanu Gupta,4 days ago)
+- 0312c6f updating main (Hanu Gupta,4 days ago)
+- fadfd24 Revise README for DevOps Simulator project (Hanu Gupta,4 days ago)
+- ae630eb Initial commit (Hanu Gupta,4 days ago)
