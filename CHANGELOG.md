@@ -1,2 +1,4 @@
 Used fetch 1 time, pull 1 time.
-used stash 1 time
+Used stash 1 time.
+Used cherry-pick 1 time.
+Used rebase 1 time.
