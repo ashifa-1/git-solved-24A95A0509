@@ -1,0 +1,29 @@
+* e287826 (HEAD -> main, origin/main) docs: Add changelog
+* 3d34ebe CHANGELOG.md formatted
+* 26a1c1a Added the Documentation GIT_JOURNEY.md
+* c662527 added CHANGELOG.md
+* 5e0d5de solved conflict errors in changelog.md
+*   8d8a95c Merge pull request #1 from ashifa-1/feature/another-feature
+|\  
+| * c6d051b (origin/feature/another-feature) Added change to scripts/deploy.sh
+| * 2629ec3 Bad commit
+| | * a444378 (feature/another-feature) added GITT_JOURNEY.md
+| |/  
+| * 45342e9 used rebase 1 time
+| * d54509f feature: Add test feature
+|/  
+* fef73eb (tag: v1.1.0, tag: v1.0.0) docs: update README
+* 61ee26d feat: Add new feature
+* 5b21d4e checkpoint 3 added
+| * bce7fd3 (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+|/  
+*   f6371da Phase 3 completed
+|\  
+| * d3dd9b2 (instructor/conflict-simulator) updating conflict-simulator
+* | 045c357 Completed phase 2
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+| * 02011a5 (instructor/dev) updating dev
+|/  
+* ae630eb Initial commit
